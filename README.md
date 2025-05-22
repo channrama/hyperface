@@ -1,12 +1,12 @@
-Basically i implimented all the backend part for expense tracker
-to run server
+# Expense Tracker
+
+Basically I implemented all the backend part for the expense tracker.
+
+To run the server:
+```bash
 cd server
-npm i
+npm install
 npm run dev
-i used postman to test those api all working fine.....
 
-to run client||front end
 cd client
-npm run dev...
-
-stay hard...
+npm run dev
